@@ -1,0 +1,5 @@
+Django==4.1
+django-cors-headers
+pymongo
+djangorestframework
+djongo
